@@ -1,0 +1,27 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Why do we use it ?",
+      "author": "Mario",
+      "id": "11"
+    },
+    {
+      "title": "Opening party",
+      "body": "Why do we use it ?",
+      "author": "yoshi",
+      "id": "12"
+    },
+    {
+      "title": "fuhfuh",
+      "body": "idif",
+      "id": "13"
+    },
+    {
+      "id": "13f5",
+      "title": "wdw",
+      "body": "swsw",
+      "author": "yoshi"
+    }
+  ]
+}
